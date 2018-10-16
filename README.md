@@ -1,4 +1,4 @@
-### Random Forest algorithm for Document Classification
+### Pipeline for Random Forest algorithm for Document Classification and Prediction
 
 In this project, a whole pipeline from extracting text from original documents, preprocessing text documents, feature extraction, classification, and prediction has been proporsed:
 <br />
