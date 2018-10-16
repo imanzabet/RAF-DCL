@@ -134,5 +134,4 @@ In this script, the train model based on the 3rd step of the main pipeline (clas
 
 <pre>
 Author: Iman Zabett
-Copyright for Accenture - All right reserved
 </pre>
