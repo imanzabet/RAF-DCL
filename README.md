@@ -28,9 +28,7 @@ The pipeline schema for this project is as below:
      ╔═══════════╗ 
 &#9316; &#11078;  Prediction          &#11078; &#9317;
      ╚═══════════╝
-<br/>
 
-<br/>
 <br/>
 &#9312; Original Document files (Doc, Pdf, Ppt, ...)
 &#9313; Original Document Text files
