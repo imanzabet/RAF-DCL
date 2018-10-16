@@ -1,6 +1,6 @@
 ### Random Forest algorithm for Document Classification
 
-In this project, there are 3 python scripts as below including a dependencies python script:
+In this project, a whole pipeline from extracting text from original documents, preprocessing text documents, feature extraction, classification, and prediction has been proporsed:
 <br />
 In order to see how to call them in command line, use "--help" argument, as an example: 
 <br />
